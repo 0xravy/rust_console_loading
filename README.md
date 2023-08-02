@@ -1,6 +1,7 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzv-Q5bGIZLgsedVq7yCCAQo3fEC95bUeSM_foUjpX8z1XCtDy1kFL3DqHAhKzKcpSdUY"/>
 
 # rust_console_loading
+<img src="https://media.discordapp.net/attachments/1045473607305941053/1136219569963405412/pic-full-230802-1449-49.png?width=1076&height=605"/>
 
 ```rs
 use std::{thread, time::Duration};
